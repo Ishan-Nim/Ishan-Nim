@@ -1,5 +1,9 @@
 <!-- Banner -->
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishannim/ishannim/main/assets/hacker_banner.gif" width="100%" alt="Hacker Banner"/>
+</p>
+
+```text
 ███████╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗    ███╗   ██╗██╗███╗   ███╗
 ██╔════╝██║██╔════╝██║ ██╔╝██╔══██╗████╗  ██║    ████╗  ██║██║████╗ ████║
 ███████╗██║█████╗  █████╔╝ ███████║██╔██╗ ██║    ██╔██╗ ██║██║██╔████╔██║
@@ -8,7 +12,9 @@
 ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
 ```
 
-## 👾 Ishan Nim | Offensive Engineer | Security Plugin Dev | Red Teamer
+---
+
+## 👾 Ishan Nim | White Hat Hacker 🧑‍💻 | Security Enthusiast | Penetration Tester 🔓
 
 ```js
 // 🧠 Philosophy
@@ -16,47 +22,78 @@ while(alive) {
     break_things();
     learn();
     automate();
+    secure();
 }
 ```
 
-- 🎯 **Specialties**: Red Teaming, Web & Cloud Pentesting, Exploit Dev, Security Plugin Engineering  
-- 🧰 **Stack**: PHP, JS, Python, Bash, React, WordPress, Wazuh, Burp, Nmap, OSINT, DeepSeek API  
-- 🧪 **R&D**: CVE Feeds, LLM Security, Mini SOCs, Malicious Plugin Simulation  
-- 🛠️ **Tools**: `nmap`, `ffuf`, `burp`, `gobuster`, `curl`, `jq`, `pwndbg`  
-- 🧠 **Motto**: _"Exploit it. Document it. Weaponize it."_
+### 🔥 Professional Identity
+
+- 🛡️ **White Hat Hacker**: Advocate for ethical hacking & cyber defense
+- ⚔️ **Penetration Tester**: Simulating real-world attacks to protect systems
+- 💻 **Security Plugin Engineer**: Building tools for defense and detection
+- 📡 **OSINT & Recon**: Data is power. And I love finding it.
+- 🧠 **Security Researcher**: CVE hunter, LLM breaker, malware reverse engineer
 
 ---
 
-## 🔧 Projects & Repos
+## 🧰 Tools of the Trade
 
-| 💣 Offensive Tools | 🔍 Recon & OSINT | 🔐 Plugins |
-|-------------------|------------------|------------|
-| [WebShell-X](#)   | [PassiveIntel](#) | [CVE Feed Translator](#) |
-| [RedOps Toolkit](#) | [Subdominator](#) | [Mini SOC - Wazuh Core](#) |
-| [LLM Pentest Lab](#) | [ReconPipe](#) | [RSS Auto Exploit DB](#) |
+![Tools](https://skillicons.dev/icons?i=php,python,bash,js,react,wordpress,linux,github)
+
+```bash
+nmap     burpsuite     gobuster
+ffuf     dirsearch     hydra
+wpscan   metasploit    gdb
+```
 
 ---
 
-## 📡 Recent Activity
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishannim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishannim&theme=radical" alt="Streak Stats"/>
+</p>
+
+---
+
+## 🧠 Recent Hacks
 
 ```bash
 ┌──(ishan㉿nim)-[~]
 └─$ tail -f ~/logs/hacks.log
 
-[+] Subdomain takeover test on *.dev complete
-[+] CVE-2025-XXXX plugin proof-of-concept uploaded
-[+] GPT-powered OSINT scraper deployed
-[+] Red team op on Azure AD in simulation mode: PASS
+[+] Reverse shell payload deployed via plugin vuln
+[+] Subdomain takeover confirmed on *.cloud.internal
+[+] CVE-2025-XXXX PoC uploaded to repo
+[+] Simulated red team op on Azure: SUCCESS
 ```
 
 ---
 
-## 🕶️ Contact Me (Offsec Only)
+## 💼 Featured Projects
 
-- 🌐 Website: [https://ishannim.com](https://ishannim.com)
-- 🐦 Twitter/X: [@D4rkelves](https://x.com/D4rkelves)
+| 🔧 Tools | 🔐 Plugins | 🧪 Labs |
+|---------|------------|--------|
+| [WebShell-X](#) | [CVE Feed Translator](#) | [LLM Pentest Lab](#) |
+| [RedOps Toolkit](#) | [Mini SOC - Wazuh Core](#) | [Payload Playground](#) |
+
+---
+
+## 📱 Contact & Collab
+
+- 🌐 [ishannim.com](https://ishannim.com)
+- 🐦 [@D4rkelves](https://x.com/D4rkelves)
 - 💬 Discord: `ishan_nim`
-- 📬 DM for collabs, gigs, and red teaming war games.
+- 📬 DM for red teaming, plugin audits, collabs or chaos
+
+---
+
+## 🔢 Animated Binary Rain
+
+<p align="center">
+  <img src="https://media.giphy.com/media/FaKV1cVKlVRxC/giphy.gif" width="80%"/>
+</p>
 
 ---
 
