@@ -1,83 +1,63 @@
-<h3 align="left">Offensive Security Engineer from another planet 👽 ; Head of Security Research and Analysis Team at #ElvesCore.</h3>
+<!-- Banner -->
+```
+███████╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗    ███╗   ██╗██╗███╗   ███╗
+██╔════╝██║██╔════╝██║ ██╔╝██╔══██╗████╗  ██║    ████╗  ██║██║████╗ ████║
+███████╗██║█████╗  █████╔╝ ███████║██╔██╗ ██║    ██╔██╗ ██║██║██╔████╔██║
+╚════██║██║██╔══╝  ██╔═██╗ ██╔══██║██║╚██╗██║    ██║╚██╗██║██║██║╚██╔╝██║
+███████║██║███████╗██║  ██╗██║  ██║██║ ╚████║    ██║ ╚████║██║██║ ╚═╝ ██║
+╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
+```
 
-###
+## 👾 Ishan Nim | Offensive Engineer | Security Plugin Dev | Red Teamer
 
-<br clear="both">
+```js
+// 🧠 Philosophy
+while(alive) {
+    break_things();
+    learn();
+    automate();
+}
+```
 
-<div align="center">
-</div>
+- 🎯 **Specialties**: Red Teaming, Web & Cloud Pentesting, Exploit Dev, Security Plugin Engineering  
+- 🧰 **Stack**: PHP, JS, Python, Bash, React, WordPress, Wazuh, Burp, Nmap, OSINT, DeepSeek API  
+- 🧪 **R&D**: CVE Feeds, LLM Security, Mini SOCs, Malicious Plugin Simulation  
+- 🛠️ **Tools**: `nmap`, `ffuf`, `burp`, `gobuster`, `curl`, `jq`, `pwndbg`  
+- 🧠 **Motto**: _"Exploit it. Document it. Weaponize it."_
 
-###
+---
 
-<div align="center">
-  <img height="195" src="https://giffiles.alphacoders.com/244/24461.gif"  />
-</div>
+## 🔧 Projects & Repos
 
-###
+| 💣 Offensive Tools | 🔍 Recon & OSINT | 🔐 Plugins |
+|-------------------|------------------|------------|
+| [WebShell-X](#)   | [PassiveIntel](#) | [CVE Feed Translator](#) |
+| [RedOps Toolkit](#) | [Subdominator](#) | [Mini SOC - Wazuh Core](#) |
+| [LLM Pentest Lab](#) | [ReconPipe](#) | [RSS Auto Exploit DB](#) |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-</div>
+---
 
-###
+## 📡 Recent Activity
 
-<div align="left">
-  <a href="https://www.instagram.com/d4rkelves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/niblingo_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/channels/1107604516632809484/1107604517698158673" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="D4rkelves@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ishannim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/D4rkelves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+```bash
+┌──(ishan㉿nim)-[~]
+└─$ tail -f ~/logs/hacks.log
 
-###
+[+] Subdomain takeover test on *.dev complete
+[+] CVE-2025-XXXX plugin proof-of-concept uploaded
+[+] GPT-powered OSINT scraper deployed
+[+] Red team op on Azure AD in simulation mode: PASS
+```
 
-<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wkr8jnfqxo27mg0e2jj8yy69qjhduwpn2cg931tg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+---
 
-###
+## 🕶️ Contact Me (Offsec Only)
 
-<p align="left">🔭 I’m currently working on Node JS<br>    🌱 I’m currently learning Docker<br>    👯 I’m looking to collaborate on new business ideas.<br><br>    💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.<br>    📫 How to reach me:DM 📱 email-d4rkelves@gmail.com.</p>
+- 🌐 Website: [https://ishannim.com](https://ishannim.com)
+- 🐦 Twitter/X: [@D4rkelves](https://x.com/D4rkelves)
+- 💬 Discord: `ishan_nim`
+- 📬 DM for collabs, gigs, and red teaming war games.
 
-###
+---
 
-<br clear="both">
-
-
-
-###
+> _"In a world full of firewalls, be a zero-day."_ ☠️
