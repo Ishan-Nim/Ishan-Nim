@@ -88,7 +88,8 @@ wpscan   metasploit    gdb
 ## 🔢 WadaP WadaP WadaP
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/qBQxwvp8D1UAAAAd/hacker-meme.gif" width="80%"/>
+  <img src="![hacker-meme](https://github.com/user-attachments/assets/bd98e49f-6b1e-4823-bb70-16e195ca4625)
+" width="80%"/>
 </p>
 
 ---
