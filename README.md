@@ -88,8 +88,7 @@ wpscan   metasploit    gdb
 ## 🔢 WadaP WadaP WadaP
 
 <p align="center">
-  <img src="![hacker-meme](https://github.com/user-attachments/assets/bd98e49f-6b1e-4823-bb70-16e195ca4625)
-" width="80%"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6824442/430677208-bd98e49f-6b1e-4823-bb70-16e195ca4625.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T042053Z&X-Amz-Expires=300&X-Amz-Signature=8ff30bf5b3cd6fc7976d4bdd6e356f709fba8c83756c563c4e03be6937757f80&X-Amz-SignedHeaders=host" width="80%"/>
 </p>
 
 ---
