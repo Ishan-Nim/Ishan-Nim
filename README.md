@@ -16,7 +16,7 @@ ________      _______________ ____  __.___________.____ ____   _______________ _
 
 ---
 
-## 👾 Ishan Nim | White Hat Hacker 🧑‍💻 | Security Enthusiast | Penetration Tester 🔓
+## 👾 Ishan Nim  | Security Enthusiast | Penetration Tester 🔓
 
 ```js
 // 🧠 Philosophy
